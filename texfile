@@ -1,0 +1,30 @@
+\documentclass[letterpaper, 10 pt, conference]{IEEEconf}
+\title{\LARGE \bf
+COMPUTER HISTORY\\
+\large The history of computer gaming..
+}
+
+\author{Group Number 2\\
+\small Nicholas Medina\\
+\small Nikki Sparacino\\
+\small Madisen Good\\
+\small Brandon Hunt\\
+}
+
+\begin{document}
+
+\maketitle 
+
+\section{Introduction}
+Nick
+\section{Time period}
+Maddie
+\section{Computer Hardware}
+Nikki
+\section{Computer Software}
+Brandon
+\section{Conclusion}
+everyone
+\section{References}
+
+\end{document}
